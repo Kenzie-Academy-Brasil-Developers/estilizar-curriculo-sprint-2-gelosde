@@ -49,3 +49,6 @@ img{
 .top{
 	font-family: Arial, Helvetica, sans-serif;
 }
+.listas{
+column-count: 3;
+}
