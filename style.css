@@ -24,13 +24,15 @@ img{
 
 #name {
 	float: left;
-	color: #444444;
 }
 
 #contactDetails {
 	float: right;
 	margin-right: 10%;
-	text-emphasis-color: #181818;
+}
+a:link{
+	color: #181818;
+	text-decoration: none;
 }
 
 .sectionTitle {
@@ -49,6 +51,8 @@ img{
 .top{
 	font-family: Arial, Helvetica, sans-serif;
 }
-.listas{
-column-count: 3;
+.lis{
+	color: #181818;
+	list-style: none;
+	column-count: 3;
 }
