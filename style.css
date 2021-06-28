@@ -29,6 +29,8 @@ img{
 #contactDetails {
 	float: right;
 	margin-right: 10%;
+        list-style-type: none;
+	color: #181818;
 }
 a:link{
 	color: #181818;
