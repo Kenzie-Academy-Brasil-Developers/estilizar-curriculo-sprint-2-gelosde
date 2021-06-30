@@ -1,14 +1,13 @@
 .clear {
-	clear: both;
-	border: 1px solid #cf8a05;
-	margin-left: 6%;
-	margin-right: 10%;
+clear: both;
+border: 1px solid #cf8a05;
+margin-left: 40px;
+margin-right: 60px;
 }
 .clearddd{
 clear: both;
 border: 1px solid #dedede;
-margin-left: 12%;
-margin-right: 10%;
+margin: 12%;
 }
 
 img{
@@ -57,9 +56,11 @@ a:link{
 }
 .listas{
 	color: #181818;
-	list-style: none;
 	column-count: 3;
 }
 .titulo{
 	font-size: 25px;
+}
+li{
+	list-style: none;
 }
